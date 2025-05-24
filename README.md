@@ -13,6 +13,7 @@ Tema doreste sa fie implementate urmatoarele functii pentru a face o retea utila
 2. **Urmarirea unei codificari pentru a gasi un satelit**
 3. **Determinarea unei codificari pentru un satelit**
 4. **Gasirea parintelui comun pentru o serie de sateliti**
+5. **Exitinderea arborelui si gasirea distantei intre doua noduri**
 
 Tema foloseste concepetele de : *Heap* si *Arbore multicai*.
 
